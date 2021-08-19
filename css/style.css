@@ -1,1 +1,17 @@
-
+.content{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://i.pinimg.com/originals/d0/31/0b/d0310bfd216b962e60b3e6bd04eed057.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sign{
+    font-weight: bold;
+    color: black;
+}
+footer{
+    width: 100%;
+	left: 0px;
+	bottom: 0px;
+	position: absolute;
+}
