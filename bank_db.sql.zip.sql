@@ -59,8 +59,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
-(1, 'Vaibhav', 'vaibhav@gmail.com', 5400),
-(2, 'Vaishnavi', 'vaishnavi@gmail.com', 0);
+(1, 'deepika', 'deepika@gmail.com', 10000),
+(2, 'chandana', 'chandana@gmail.com', 20000);
 
 --
 -- Indexes for dumped tables
